@@ -1,4 +1,4 @@
-//reverse linkedList
+//print linkedList in reverse
 void main() {
   LinkedList linkedList = LinkedList();
   linkedList.add(1);
